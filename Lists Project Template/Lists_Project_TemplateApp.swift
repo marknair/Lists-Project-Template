@@ -2,7 +2,6 @@
 //  Lists_Project_TemplateApp.swift
 //  Lists Project Template
 //
-//  Created by Mark Nair on 11/16/23.
 //
 
 import SwiftUI

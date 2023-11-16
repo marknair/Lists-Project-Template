@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Lists Project Template
 //
-//  Created by Mark Nair on 11/16/23.
+//  Created by [YOUR NAME GOES HERE].
 //
 
 import SwiftUI
@@ -19,6 +19,16 @@ struct ContentView: View {
     }
 }
 
+
+
 #Preview {
     ContentView()
+}
+
+struct Article {
+    var title: String
+    var author: String
+    var rating: Int
+    var excerpt: String
+    var image: String
 }
